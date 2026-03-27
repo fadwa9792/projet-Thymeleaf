@@ -1,20 +1,12 @@
-# 🏥 Gestion des Rendez-vous Médicaux (Spring Boot-Thymeleaf)
+<h1 align="center"> 🏥 Gestion des Rendez-vous Médicaux (Spring Boot-Thymeleaf)</h1>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,mysql,maven,postman" />
+</p>
 
 ##  Description
 
 Cette application permet de gérer les rendez-vous entre patients et médecins dans une clinique.
 
-
----
-
-## ⚙️ Technologies utilisées
-
-* ☕ Java 17
-* 🌱 Spring Boot
-* 🗄️ Spring Data JPA
-* 🐬 MySQL
-* 🔧 Maven
-* 📬 Postman (tests API)
 
 ---
 
